@@ -24,6 +24,7 @@ in this repository. Projects at beta and live should follow these recommendation
 
 ### Operating services
 
+- [Deploying software to production](deployment.html)
 - [Storing and querying logs](logging.html)
 - [Monitoring your service](monitoring.html)
 - [Responding to problems](alerting.html)
